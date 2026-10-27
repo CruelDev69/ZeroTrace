@@ -3,6 +3,10 @@ ZeroTrace is a secure hard drive cleaner made to format your drive and overwrite
 
 If you find any errors or you have ideas make issues and let me know.
 
+[![GitHub All Releases](https://img.shields.io/github/downloads/CruelDev69/ZeroTrace/total?style=flat-square&color=blue)](https://github.com/CruelDev69/ZeroTrace/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/CruelDev69/ZeroTrace?style=flat-square&color=gold)](https://github.com/CruelDev69/ZeroTrace/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/CruelDev69/ZeroTrace?style=flat-square&color=orange)](https://github.com/CruelDev69/ZeroTrace/network/members)
+
 # How To Use?
 > [!WARNING]
 > DON'T DELETE ANY FOLDER OR ITS CONTENT
